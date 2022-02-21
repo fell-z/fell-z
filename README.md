@@ -1,8 +1,13 @@
-### Hi there 👋
+## Hi! 👋🥸🤏
+
+First starting with me, I'm a developer who likes most, if not all, technologies 😅, but I like to focus mainly in Web Development.
+I also try in my spare time, to create some games in Godot, and... well, I play guitar and the violin sometimes.
+
+- 📖 I'm currently learning *WebDev* using the course [The Odin Project](https://theodinproject.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fell-z)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**fell-z/fell-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
