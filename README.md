@@ -5,8 +5,8 @@ I also try in my spare time, to create some games in Godot, and... well, I play 
 
 - 📖 I'm currently learning *WebDev* using the course [The Odin Project](https://theodinproject.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fell-z&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fell-z&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fell-z&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fell-z&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
